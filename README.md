@@ -9,7 +9,7 @@ The `main.py` file contains the actual code, while `test.txt` is the example
 input and `in.txt` is actual input.
 To use simply run:
 ```
-$ python main.py < in.txt
+$ python main.py < test.txt
 ```
 or
 ```
